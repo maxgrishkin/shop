@@ -3,7 +3,7 @@ using System;
 namespace Project
 {
     /// <summary>
-    /// Это клас для кассы
+    /// Это клас для кассы...
     /// </summary>
     public class Cashbox
     {

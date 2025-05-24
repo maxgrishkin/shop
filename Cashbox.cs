@@ -2,6 +2,9 @@ using System;
 
 namespace Project
 {
+    /// <summary>
+    /// Это клас для кассы
+    /// </summary>
     public class Cashbox
     {
         public float Balance = 0;

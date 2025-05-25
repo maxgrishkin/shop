@@ -33,8 +33,6 @@ namespace Project
                 Console.WriteLine($"{product.Id} {product.Title} ({product.Description}) : {product.Price}");
 
             Console.WriteLine(shop.GetCashboxBalance());
-
-            //Console.WriteLine(product);
         }
     }
 }
